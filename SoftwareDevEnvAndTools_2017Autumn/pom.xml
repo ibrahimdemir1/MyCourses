@@ -15,7 +15,7 @@
 				<configuration>
 					<formats>
 						<format>html</format>
-						<format>xml</format>
+						<format>xml</format>//deneme
 					</formats>
 					<check />
 				</configuration>
